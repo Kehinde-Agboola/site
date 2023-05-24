@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    background-color: rgb(255, 255, 255);
+}
+
+nav ul li a{
+    color: rgb(34, 34, 34);
+    text-decoration: none;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+ul li a{
+    color: rgb(34, 34, 34);
+    // text-decoration: none;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
